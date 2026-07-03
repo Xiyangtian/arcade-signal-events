@@ -1,6 +1,6 @@
 {
     "name": "arcade-signal-events",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "在 MakeCode Arcade 积木里使用自定义信号事件，支持无参数事件和带数字参数的事件",
     "dependencies": {
         "device": "*"
