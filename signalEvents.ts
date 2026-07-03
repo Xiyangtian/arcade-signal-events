@@ -77,7 +77,7 @@ namespace signalEvents {
      * 当收到指定带数字参数的信号时执行
      */
     //% blockId=signalListenNumberEvent
-    //% block="当接收 $name 信号，参数 n 时"
+    //% block="当接收 $name 信号时，参数："
     //% weight=10
     //% name.shadow="numberEventNameShadow"
     //% draggableParameters="reporter"
